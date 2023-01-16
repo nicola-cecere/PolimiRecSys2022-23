@@ -37,3 +37,8 @@ This repository is based on [Maurizio Dacrema's repository](https://github.com/M
 
 ## About us
 [Andrea Riboni](https://github.com/AndreaRiboni/) and [Nicola Cecere](https://github.com/nicola-cecere)
+
+## Tuning
+- Macbook Pro 2019
+- Lenovo Yoga Slim 7 Pro
+- Standard E2s v3 (2 vcpus, 16 GiB memory) Azure VM, Ubuntu
