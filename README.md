@@ -1,5 +1,3 @@
-<img src="https://github.com/AndreaRiboni/PolimiRecSys2022-23/blob/main/data/banner_polimi.png?raw=true" height="350">
-
 # Polimi Recommender System challenge A.Y. 2022/23
 This repo contains the code and the data used in [polimi's recsys challenge](https://www.kaggle.com/competitions/recommender-system-2022-challenge-polimi/overview)
 
