@@ -2,13 +2,13 @@
 This repo contains the code and the data used in [polimi's recsys challenge](https://www.kaggle.com/competitions/recommender-system-2022-challenge-polimi/overview)
 
 ## Results
+Deadline 2 (final)
+- Public leaderboard: 2th
+- Private leaderboard: 3th
+
 Deadline 1
 - Public leaderboard: 5th
 - Private leaderboard: 1st
-
-Deadline 2
-- Public leaderboard: 2th
-- Private leaderboard: 3th
 
 MAP@10: 0.06200
 
@@ -31,3 +31,6 @@ The second hybrid is composed of
 - RP3Beta (stacked)
 - IALS_implicit
 - MultVAE
+
+## This repository
+This repository is based on [Maurizio Dacrema's repository](https://github.com/MaurizioFD/RecSys_Course_AT_PoliMi)
