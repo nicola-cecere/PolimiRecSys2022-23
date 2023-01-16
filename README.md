@@ -34,3 +34,6 @@ The second hybrid is composed of
 
 ## This repository
 This repository is based on [Maurizio Dacrema's repository](https://github.com/MaurizioFD/RecSys_Course_AT_PoliMi)
+
+## About us
+[Andrea Riboni](https://github.com/AndreaRiboni/) and [Nicola Cecere](https://github.com/nicola-cecere)
