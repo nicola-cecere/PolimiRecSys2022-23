@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="100%" src="https://i.imgur.com/tm9mSuM.png" alt="header" />
+</p>
 # Polimi Recommender System challenge A.Y. 2022/23
 This repo contains the code and the data used in [polimi's recsys challenge](https://www.kaggle.com/competitions/recommender-system-2022-challenge-polimi/overview)
 
