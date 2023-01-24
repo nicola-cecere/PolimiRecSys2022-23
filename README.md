@@ -41,7 +41,7 @@ This repository is based on [Maurizio Dacrema's repository](https://github.com/M
 ## About us
 [Andrea Riboni](https://github.com/AndreaRiboni/) and [Nicola Cecere](https://github.com/nicola-cecere)
 
-[My telegram](https://t.me/DatAndre)
+
 
 ## Tuning
 - Macbook Pro 2019
